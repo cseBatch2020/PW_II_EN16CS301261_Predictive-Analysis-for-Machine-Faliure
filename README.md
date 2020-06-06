@@ -7,3 +7,6 @@ Python based Machine Learning model to process Predictive Analytics for Machine 
 [Live Web App](https://group8tcsproject.el.r.appspot.com/)
 
 * Updated on May 31, 2020
+
+<hr>
+* Parent Repository : [Click Here](https://github.com/iSiddharth20/HackerEarth-Machine-Learning-Competition)
