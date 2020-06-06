@@ -8,5 +8,4 @@ Python based Machine Learning model to process Predictive Analytics for Machine 
 
 * Updated on May 31, 2020
 
-<hr>
 * Parent Repository : [Click Here](https://github.com/iSiddharth20/HackerEarth-Machine-Learning-Competition)
